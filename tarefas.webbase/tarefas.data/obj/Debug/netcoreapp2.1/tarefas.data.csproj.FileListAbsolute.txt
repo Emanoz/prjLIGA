@@ -1,0 +1,17 @@
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.csprojAssemblyReference.cache
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.csproj.CoreCompileInputs.cache
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.RazorAssemblyInfo.cache
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.RazorAssemblyInfo.cs
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.AssemblyInfoInputs.cache
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.AssemblyInfo.cs
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.data.deps.json
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.data.runtimeconfig.json
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.data.runtimeconfig.dev.json
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.data.dll
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.data.pdb
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.webbase.dll
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\bin\Debug\netcoreapp2.1\tarefas.webbase.pdb
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.RazorTargetAssemblyInfo.cache
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.csproj.CopyComplete
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.dll
+C:\Users\a11\Desktop\prjLIGA\tarefas.webbase\tarefas.data\obj\Debug\netcoreapp2.1\tarefas.data.pdb
