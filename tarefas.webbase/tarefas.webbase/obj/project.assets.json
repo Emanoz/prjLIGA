@@ -11797,23 +11797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a11\\.nuget\\packages\\": {},
+    "C:\\Users\\manut\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a11\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\tarefas.webbase.csproj",
+      "projectUniqueName": "C:\\Users\\manut\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\tarefas.webbase.csproj",
       "projectName": "tarefas.webbase",
-      "projectPath": "C:\\Users\\a11\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\tarefas.webbase.csproj",
-      "packagesPath": "C:\\Users\\a11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a11\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\obj\\",
+      "projectPath": "C:\\Users\\manut\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\tarefas.webbase.csproj",
+      "packagesPath": "C:\\Users\\manut\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manut\\Desktop\\prjLIGA\\tarefas.webbase\\tarefas.webbase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\a11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manut\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

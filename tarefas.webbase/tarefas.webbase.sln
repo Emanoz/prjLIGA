@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefas.webbase", "tarefas.webbase\tarefas.webbase.csproj", "{8AA4DABE-EF53-4E4D-A45B-9F9D23C8B8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tarefas.webbase", "tarefas.webbase\tarefas.webbase.csproj", "{8AA4DABE-EF53-4E4D-A45B-9F9D23C8B8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefas.data", "tarefas.data\tarefas.data.csproj", "{665BA717-0985-4643-885A-449E75FEC191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tarefas.data", "tarefas.data\tarefas.data.csproj", "{665BA717-0985-4643-885A-449E75FEC191}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarafas.repositories", "tarafas.repositories\tarafas.repositories.csproj", "{87838EB1-4736-41EA-A76E-1E117D9CACB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tarafas.repositories", "tarafas.repositories\tarafas.repositories.csproj", "{87838EB1-4736-41EA-A76E-1E117D9CACB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefas.business", "tarefas.business\tarefas.business.csproj", "{CBB47FA5-3055-4902-BAF2-3F85FAB06622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarefas.api", "tarefas.api\tarefas.api.csproj", "{2249EB4A-1DD5-4704-BC31-7BC82C8ADF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{87838EB1-4736-41EA-A76E-1E117D9CACB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87838EB1-4736-41EA-A76E-1E117D9CACB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87838EB1-4736-41EA-A76E-1E117D9CACB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB47FA5-3055-4902-BAF2-3F85FAB06622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB47FA5-3055-4902-BAF2-3F85FAB06622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB47FA5-3055-4902-BAF2-3F85FAB06622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB47FA5-3055-4902-BAF2-3F85FAB06622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2249EB4A-1DD5-4704-BC31-7BC82C8ADF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2249EB4A-1DD5-4704-BC31-7BC82C8ADF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2249EB4A-1DD5-4704-BC31-7BC82C8ADF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2249EB4A-1DD5-4704-BC31-7BC82C8ADF54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
